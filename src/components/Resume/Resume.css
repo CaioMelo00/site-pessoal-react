@@ -1,0 +1,14 @@
+.resume {
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    align-content: space-around;
+    flex-wrap: wrap;
+    padding: 0;
+}
+
+p, li {
+    font-size: 1.3rem;
+}
+

@@ -1,0 +1,30 @@
+{
+    "briefing": "Atualmente estudante de Ciência da Computação e de desenvolvimento de software, sou um profissional reconhecido por pela rápida adaptação, organização, cooperação e inteligência. Fã de filmes japoneses e de músicas que ninguém ouve.",
+    "academicExperience": [
+        {
+            "title": "Ciência da Computação - UNIFAVIP",
+            "initialYear": "2022",
+            "finalYear": "2025"
+        }
+    ],
+    "professionalExperience": [
+        {
+            "role": "Vendedor",
+            "firm": "VIP Informática",
+            "initialDate": "Mar/2018",
+            "finalDate": "Mar/2019"
+        },
+        {
+            "role": "Operador Comercial",
+            "firm": "Americanas",
+            "initialDate": "Nov/2019",
+            "finalDate": "Jan/2020"
+        },
+        {
+            "role": "Vendedor",
+            "firm": "BIG Bompreço",
+            "initialDate": "Mar/2020",
+            "finalDate": "Nov/2021"
+        }
+    ]
+}
